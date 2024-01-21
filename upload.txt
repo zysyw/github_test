@@ -2,3 +2,4 @@
 1、无vpn 可以上传，但是浏览器访问GitHub不稳定
 2、有vpn 不可以上传
 3、在vscode设置代理，test
+4、创建新分支new_branch
