@@ -3,3 +3,5 @@
 2、有vpn 不可以上传
 3、在vscode设置代理
 4、设置不同的代理服务器
+5、在vscode设置ssh代理
+6、创建新分支new_branch，测试功能
